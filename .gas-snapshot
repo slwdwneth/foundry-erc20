@@ -1,0 +1,5 @@
+OurTokenTest:testAllowance() (gas: 41666)
+OurTokenTest:testBobBalance() (gas: 13681)
+OurTokenTest:testInitialSupply() (gas: 15560)
+OurTokenTest:testTransfer() (gas: 48718)
+OurTokenTest:testTransferFrom() (gas: 82574)
